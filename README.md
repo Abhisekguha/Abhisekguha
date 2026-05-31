@@ -152,27 +152,92 @@ Response --> User
 
 ---
 
-# AI Engineering Journey
+# AI System Architecture Journey
 
 ```mermaid
-timeline
+graph TB
 
-title Artificial Intelligence Journey
+subgraph "2024 | Vision Intelligence"
+A["👁️ Computer Vision Systems"]
+A1["YOLOv8 / YOLOv10"]
+A2["TensorFlow"]
+A3["OpenCV"]
+A4["Edge AI"]
 
-2024 : Computer Vision Engineer
-     : Shoonya Technologies
+A --> A1
+A --> A2
+A --> A3
+A --> A4
+end
 
-2024 : AI Researcher
-     : NIT Raipur
+subgraph "2025 | Document Intelligence"
+B["📄 Document AI"]
+B1["OCR Pipelines"]
+B2["HTR Models"]
+B3["Qwen2-VL"]
+B4["Layout Detection"]
+B5["Table Extraction"]
 
-2025 : Machine Learning Engineer
-     : HyperWorks Imaging
+B --> B1
+B --> B2
+B --> B3
+B --> B4
+B --> B5
+end
 
-2026 : AI/ML Engineer
-     : Mondee Tech
+subgraph "2026 | Agentic AI Systems"
+C["🤖 Autonomous AI Systems"]
 
-Future : Agentic AI Architect
-       : Autonomous Systems Research
+C1["Multi-Agent Systems"]
+C2["LangGraph"]
+C3["DSPy"]
+C4["MCP Servers"]
+C5["Tool Calling"]
+C6["Graph-RAG"]
+C7["Browser Agents"]
+C8["Memory Systems"]
+C9["Reasoning Workflows"]
+
+C --> C1
+C --> C2
+C --> C3
+C --> C4
+C --> C5
+C --> C6
+C --> C7
+C --> C8
+C --> C9
+end
+
+subgraph "Present | AI Systems Architect"
+D["🚀 Production AI Ecosystem"]
+
+D1["Agentic Workflows"]
+D2["Vision-Language Models"]
+D3["Autonomous Decision Systems"]
+D4["Document Intelligence"]
+D5["Knowledge Graphs"]
+D6["Retrieval Systems"]
+D7["API Infrastructure"]
+D8["Cloud Deployment"]
+D9["Human-in-the-Loop AI"]
+D10["End-to-End AI Platforms"]
+
+D --> D1
+D --> D2
+D --> D3
+D --> D4
+D --> D5
+D --> D6
+D --> D7
+D --> D8
+D --> D9
+D --> D10
+end
+
+A --> B
+B --> C
+C --> D
 ```
 
 ---
