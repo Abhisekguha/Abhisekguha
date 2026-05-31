@@ -1,23 +1,309 @@
-# Hi 👋
+<div align="center">
 
-I am an AI/ML Engineer passionate about building production-grade AI systems that bridge research and real-world applications.<br><br>🔹 Currently working on Agentic AI, Vision-Language Models (VLMs), Multi-Agent Systems, OCR Pipelines, and LLM-powered automation.<br><br>🔹 Experienced in designing scalable AI solutions using PyTorch, TensorFlow, LangGraph, DSPy, FastAPI, and modern GenAI frameworks.<br><br>🔹 Built and deployed:<br>- Multi-Agent AI Systems with MCP integration<br>- OCR and Document Intelligence platforms processing 10,000+ documents<br>- Vision-Language Models for reasoning and information extraction<br>- Autonomous browser automation agents<br>- Retrieval-Augmented Generation (RAG) and Graph-based reasoning systems<br><br>🔹 Interested in:<br>Agentic AI • Multimodal AI • Computer Vision • LLMs • VLMs • AI Infrastructure • MLOps<br><br>💡 I enjoy turning complex AI research into reliable, production-ready systems.
+# Abhisek Guha
 
+### AI Engineer • Agentic AI Architect • Multimodal Systems Researcher
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lightning.x.004) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisek-guha-0565a5264) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AbhisekGuha_26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisek.guha04@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Building+AI+Systems+That+Reason%2C+Retrieve%2C+Perceive+and+Act;Agentic+AI+%7C+Multi-Agent+Systems+%7C+VLMs;OCR+%7C+Graph+RAG+%7C+Autonomous+Agents;Turning+Research+into+Production+AI" />
+</p>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abhisekguha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Abhisekguha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhisekguha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<a href="https://github.com/Abhisekguha">
+<img src="https://komarev.com/ghpvc/?username=Abhisekguha&label=Profile+Views&color=blue&style=for-the-badge" />
+</a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Abhisekguha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhisekGuha) 
+# About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *"The purpose of intelligence is not merely to know — but to act upon knowledge."*
+
+In an era where machines are taught to answer questions, I focus on building systems that **reason, retrieve, perceive, and act**.
+
+My work spans the complete AI lifecycle—from model training and fine-tuning to architecting production-grade multi-agent systems capable of autonomous decision making.
+
+### Current Focus
+
+🧠 Agentic AI & Multi-Agent Systems
+
+👁️ Vision-Language Models (VLMs)
+
+📄 OCR & Document Intelligence
+
+🔍 Graph-RAG & Knowledge Retrieval
+
+⚡ Production AI Infrastructure
+
+🌐 Autonomous Browser Agents
+
+---
+
+# AI Capability Map
+
+```mermaid
+graph TD
+
+A[Abhisek Guha]
+
+A --> B[Agentic AI]
+A --> C[Vision AI]
+A --> D[LLMs & VLMs]
+A --> E[AI Infrastructure]
+
+B --> B1[LangGraph]
+B --> B2[DSPy]
+B --> B3[MCP]
+
+C --> C1[YOLO]
+C --> C2[RF-DETR]
+C --> C3[DocTR]
+C --> C4[Qwen-VL]
+
+D --> D1[RAG]
+D --> D2[Fine-Tuning]
+D --> D3[Knowledge Distillation]
+D --> D4[Graph Reasoning]
+
+E --> E1[FastAPI]
+E --> E2[Docker]
+E --> E3[AWS]
+E --> E4[Azure]
+```
+
+---
+
+# Engineering Philosophy
+
+```text
+Observe → Understand → Retrieve → Reason → Act
+```
+
+I design AI systems that move beyond generation and become decision-capable systems capable of interacting with tools, memory, databases, APIs, and humans.
+
+---
+
+# Architecture Expertise
+
+```mermaid
+flowchart LR
+
+User --> Agent
+
+Agent --> Memory
+
+Agent --> RAG
+
+Agent --> ToolCalling
+
+Memory --> GraphDB
+
+RAG --> VectorDB
+
+ToolCalling --> OCR
+
+ToolCalling --> APIs
+
+ToolCalling --> Search
+
+ToolCalling --> VLM
+
+OCR --> StructuredData
+
+StructuredData --> Reasoning
+
+Reasoning --> Response
+
+Response --> User
+```
+
+---
+
+# Impact Dashboard
+
+| Metric | Value |
+|----------|----------|
+| Documents Processed | 10,000+ |
+| OCR Accuracy | 93.5% |
+| Throughput Improvement | 3.4× |
+| Token Reduction | 93% |
+| Fine-Tuned Models | 15+ |
+| AI Systems Built | 20+ |
+| Browser Agents Developed | Multiple Production Deployments |
+| Multi-Agent Systems | Production Ready |
+
+---
+
+# Core Expertise
+
+| Domain | Mastery |
+|----------|----------|
+| Agentic AI | ████████████ 95% |
+| Vision-Language Models | ████████████ 95% |
+| OCR & Document AI | ████████████ 98% |
+| Multi-Agent Systems | ███████████ 92% |
+| Deep Learning | ███████████ 90% |
+| Knowledge Retrieval | ███████████ 90% |
+| MLOps & Deployment | ██████████ 85% |
+| Frontend AI Applications | █████████ 80% |
+
+---
+
+# AI Engineering Journey
+
+```mermaid
+timeline
+
+title Artificial Intelligence Journey
+
+2024 : Computer Vision Engineer
+     : Shoonya Technologies
+
+2024 : AI Researcher
+     : NIT Raipur
+
+2025 : Machine Learning Engineer
+     : HyperWorks Imaging
+
+2026 : AI/ML Engineer
+     : Mondee Tech
+
+Future : Agentic AI Architect
+       : Autonomous Systems Research
+```
+
+---
+
+# Featured Domains
+
+## Agentic AI
+
+- LangGraph Workflows
+- DSPy Optimization
+- Multi-Agent Collaboration
+- MCP Integration
+- Tool Calling Frameworks
+- Memory-Augmented Agents
+
+## Vision & Document Intelligence
+
+- OCR Systems
+- Handwritten Text Recognition
+- Layout Detection
+- Table Extraction
+- Document Parsing
+- Visual Question Answering
+
+## Language & Reasoning
+
+- Fine-Tuning LLMs
+- Vision-Language Models
+- Graph-RAG
+- Knowledge Distillation
+- Retrieval Systems
+- Structured Reasoning
+
+---
+
+# Tech Stack
+
+## AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn)
+
+## Agentic AI
+
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![DSPy](https://img.shields.io/badge/DSPy-purple?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+
+## Vision AI
+
+![YOLO](https://img.shields.io/badge/YOLO-red?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge)
+![DocTR](https://img.shields.io/badge/DocTR-green?style=for-the-badge)
+
+## Backend & Infrastructure
+
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
+
+---
+
+# Open Source & Research Interests
+
+- Agentic AI
+- Multi-Agent Systems
+- Vision-Language Models
+- OCR Research
+- Graph-Based Reasoning
+- Autonomous Web Agents
+- Knowledge Distillation
+- Retrieval-Augmented Generation
+- Human-AI Collaboration
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhisekguha&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisekguha&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=Abhisekguha&theme=tokyonight"/>
+
+</div>
+
+---
+
+# Achievements
+
+🏆 AI/ML Engineer – Mondee Tech
+
+🏆 Machine Learning Engineer – HyperWorks Imaging
+
+🥈 2nd Place – INFED Data Analytics Hackathon (IIM Nagpur)
+
+🏅 Smart India Hackathon Qualifier
+
+🏅 Google H2S Hackathon Qualifier
+
+🏅 Multiple Production AI Deployments
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="mailto:abhisek.guha04@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/abhisek-guha-0565a5264">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Abhisekguha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Some build models. Some build products. I build intelligent systems."
+
+</div>
