@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Reason+%26+Act;Agentic+Workflows+%7C+Multi-Agent+Orchestration;OCR+%7C+VLMs+%7C+Graph-RAG+%7C+Browser+Agents;From+Research+to+Production+—+End+to+End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Reason+%26+Act;Agentic+Workflows+%7C+Multi-Agent+Orchestration;LLMs+%7C+VLMs+%7C+Graph-RAG+%7C+Browser+Agents;From+Research+to+Production+—+End+to+End)](https://git.io/typing-svg)
 
 <br/>
 
